@@ -21,7 +21,7 @@
 	<div class="container"><div class="row"><div class="col">
 	
 		
-		<h1>Youtube lazy load</h1>
+		<h1>Youtube Lazy Load</h1>
 	
 		<div class="video">
 			
