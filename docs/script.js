@@ -203,14 +203,14 @@ var addYoutubeEventListener = (function() {
 			}
 		}, 250);
 		
-		// остановить вывод через 5 секунд
+		// остановить вывод через 25 секунд
 		setTimeout(() => {
 			
 			if (!flag) {
 				
 				clearInterval (timerId)
 			}
-		}, 5000);
+		}, 25000);
     }
 })();
 
