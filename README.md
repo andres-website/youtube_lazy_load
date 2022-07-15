@@ -18,7 +18,7 @@ https://andres-website.github.io/youtube_lazy_load/
 
 
 # Спасибо
-[Вадиму Макееву](https://vk.com/pepelsbey). Большая часть работы сделана и объясненна им на пальцах в данном [видео](https://youtu.be/4JS70KB9GS0). Данный проект это форк без форка.
+[Вадиму Макееву](https://vk.com/pepelsbey) из [Web-стандартов](https://web-standards.ru/) и [HTML-академии](https://htmlacademy.ru/). Большая часть работы сделана и объясненна им на пальцах в данном [видео](https://youtu.be/4JS70KB9GS0). Данный проект это форк без форка.
 
 
 # При поддержке
