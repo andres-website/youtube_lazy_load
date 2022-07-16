@@ -3,8 +3,7 @@
 
 
 # Demo
-<a href="https://andres-website.github.io/youtube_lazy_load/" target="_blank"
-    >https://andres-website.github.io/youtube_lazy_load/</a>
+https://andres-website.github.io/youtube_lazy_load
 
 
 
