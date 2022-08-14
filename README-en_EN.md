@@ -1,4 +1,4 @@
-[Русский](https://github.com/andres-website/youtube_lazy_load) | English
+[Русский](https://github.com/andres-website/youtube_lazy_load/blob/main/README.md) | English
 
 
 # Youtube Lazy Load
