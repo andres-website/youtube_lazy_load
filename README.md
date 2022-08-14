@@ -1,3 +1,6 @@
+Русский | [English](https://github.com/andres-website/youtube_lazy_load/blob/master/README-en_EN.md)
+
+
 # Youtube Lazy Load
 Лениво загружает ресурсы ютуба и воспроизводит видео по щелчку на любых платформах (для iOS не лениво).
 
