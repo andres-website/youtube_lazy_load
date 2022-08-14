@@ -13,7 +13,7 @@ https://andres-website.github.io/youtube_lazy_load
 
 * Playing video by (!) first click on any platforms (Desktop browsers, mobile browsers on iOS and Android).
 
-* Does not pull the [YouTube API](https://developers.google.com/youtube/iframe_api_reference?hl=ru) (~160 Kb) for playing by click in Android browsers. Uses only the necesary part of the API for polling and reciving messages ([cross-window-communication](https://learn.javascript.ru/cross-window-communication))..
+* Does not load resurses the [YouTube API](https://developers.google.com/youtube/iframe_api_reference?hl=en) (~160 Kb) for playing by click in Android browsers. Uses only the necesary part of the API for polling and reciving messages ([cross-window-communication](https://learn.javascript.ru/cross-window-communication)).
 
 
 ## Как воспроизводит после клика в браузерах на iOS
